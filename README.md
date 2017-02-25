@@ -1,2 +1,2 @@
 # SimpleCalculator
-A simple calculator written in Delphi
+A simple calculator written in Pascal
